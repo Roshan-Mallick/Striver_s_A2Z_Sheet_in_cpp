@@ -3,6 +3,7 @@
 int main () {
 
   int x ;
+  long int x1;
   float y;
   double z; // Stores decimal values; very large values may be displayed in scientific notation
   char grade;
@@ -10,6 +11,8 @@ int main () {
   
   std::cout << "Enter int x : ";
   std::cin >> x ;
+  std::cout << "Enter long int x1 : ";
+  std::cin >> x1 ;
   std::cout << "Enter float y : ";
   std::cin >> y ;
   std::cout << "Enter double z : ";
@@ -21,6 +24,7 @@ int main () {
   
   
   std::cout<< "x : " << x <<"\n" ;
+  std::cout<< "x1 : " << x1 <<"\n" ;
   std::cout<< "y : " << y <<"\n" ;
   std::cout<< "z : " << z <<"\n" ;
   std::cout<< "grade : " << grade <<"\n" ;
