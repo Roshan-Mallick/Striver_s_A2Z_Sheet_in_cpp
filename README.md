@@ -9,7 +9,7 @@ I am starting from the fundamentals, practicing each concept, writing my own not
 ### Learn the Basics
 
 - [x] **01 — Input Output**
-- [ ] **02 — Cpp Basics**
+- [x] **02 — Cpp Basics**
 - [ ] **03 — If Else**
 - [ ] **04 — Switch Case**
 - [ ] **05 — What are Arrays, Strings?**
@@ -33,5 +33,16 @@ Striver_s_A2Z_Sheet_in_cpp/
 │   └── Notes_Input_Output.md
 │
 ├── 02_cpp_basics/
+│   ├── 01_variables.cpp
+│   ├── 02_constants.cpp
+│   ├── 03_data_types.cpp
+│   ├── 04_type_casting.cpp
+│   ├── 05_operators.cpp
+│   ├── 06_arithmetic_operators.cpp
+│   ├── 07_relational_operators.cpp
+│   ├── 08_logical_operators.cpp
+│   ├── 09_increment_decrement.cpp
+│   ├── 10_assignment_operators.cpp
+│   └── Notes_Cpp_Basics.md
 │
 └── README.md
