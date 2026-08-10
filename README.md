@@ -10,13 +10,14 @@ I am starting from the fundamentals, practicing each concept, writing my own not
 
 - [x] **01 — Input Output**
 - [x] **02 — Cpp Basics**
-- [ ] **03 — If Else**
-- [ ] **04 — Switch Case**
-- [ ] **05 — What are Arrays, Strings?**
-- [ ] **06 — For Loops**
-- [ ] **07 — While Loops**
-- [ ] **08 — Functions**
-- [ ] **09 — Theory with Examples**
+- [x] **03 — If Else**
+- [ ] **04 — Bitwise Operators**
+- [ ] **05 — Switch Case**
+- [ ] **06 — What are Arrays, Strings?**
+- [ ] **07 — For Loops**
+- [ ] **08 — While Loops**
+- [ ] **09 — Functions**
+- [ ] **10 — Theory with Examples**
 
 ## Repository Structure
 
@@ -44,5 +45,30 @@ Striver_s_A2Z_Sheet_in_cpp/
 │   ├── 09_increment_decrement.cpp
 │   ├── 10_assignment_operators.cpp
 │   └── Notes_Cpp_Basics.md
+│
+├── 03_if_else/
+│   ├── 01_if_statement.cpp
+│   ├── 02_if_else.cpp
+│   ├── 03_else_if.cpp
+│   ├── 04_nested_if.cpp
+│   ├── 05_even_odd.cpp
+│   ├── 06_positive_negative.cpp
+│   ├── 07_largest_of_three.cpp
+│   ├── 08_grade_decide.cpp
+│   └── Notes_If_Else.md
+│
+├── 04_bitwise_operators/
+│
+├── 05_switch_case/
+│
+├── 06_arrays_strings/
+│
+├── 07_for_loops/
+│
+├── 08_while_loops/
+│
+├── 09_functions/
+│
+├── 10_theory_with_examples/
 │
 └── README.md
