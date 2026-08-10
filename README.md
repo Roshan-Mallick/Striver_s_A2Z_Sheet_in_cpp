@@ -1,3 +1,11 @@
+
+---
+
+# 2. Updated `README.md`
+
+Since **all 6 Bitwise Operator programs are now completed**, mark `04` as completed and add the actual files:
+
+```markdown
 # Striver's A2Z DSA Sheet in C++
 
 This repository contains my journey of learning **C++ and Data Structures & Algorithms** by following **Striver's A2Z DSA Sheet** step by step.
@@ -11,7 +19,7 @@ I am starting from the fundamentals, practicing each concept, writing my own not
 - [x] **01 — Input Output**
 - [x] **02 — Cpp Basics**
 - [x] **03 — If Else**
-- [ ] **04 — Bitwise Operators**
+- [x] **04 — Bitwise Operators**
 - [ ] **05 — Switch Case**
 - [ ] **06 — What are Arrays, Strings?**
 - [ ] **07 — For Loops**
@@ -58,6 +66,13 @@ Striver_s_A2Z_Sheet_in_cpp/
 │   └── Notes_If_Else.md
 │
 ├── 04_bitwise_operators/
+│   ├── 01_bitwise_and.cpp
+│   ├── 02_bitwise_or.cpp
+│   ├── 03_bitwise_xor.cpp
+│   ├── 04_bitwise_not.cpp
+│   ├── 05_bitwise_left_shift.cpp
+│   ├── 06_bitwise_right_shift.cpp
+│   └── Notes_Bitwise_Operators.md
 │
 ├── 05_switch_case/
 │
