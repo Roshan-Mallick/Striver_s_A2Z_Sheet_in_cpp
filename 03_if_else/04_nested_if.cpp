@@ -9,7 +9,7 @@ int main () {
    
    if ( a > 0) {
        if (a > b) {
-         cout << "a is positive integer and greater than b" << endl;
+         cout << "a is a spositive integer and greater than b" << endl;
        } 
    } else {
        if (b < 0) {
