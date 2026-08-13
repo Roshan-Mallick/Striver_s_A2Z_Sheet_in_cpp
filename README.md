@@ -1,11 +1,3 @@
-
----
-
-# 2. Updated `README.md`
-
-Since **all 6 Bitwise Operator programs are now completed**, mark `04` as completed and add the actual files:
-
-```markdown
 # Striver's A2Z DSA Sheet in C++
 
 This repository contains my journey of learning **C++ and Data Structures & Algorithms** by following **Striver's A2Z DSA Sheet** step by step.
@@ -16,16 +8,16 @@ I am starting from the fundamentals, practicing each concept, writing my own not
 
 ### Learn the Basics
 
-- [x] **01 — Input Output**
-- [x] **02 — Cpp Basics**
-- [x] **03 — If Else**
-- [x] **04 — Bitwise Operators**
-- [ ] **05 — Switch Case**
-- [ ] **06 — What are Arrays, Strings?**
-- [ ] **07 — For Loops**
-- [ ] **08 — While Loops**
-- [ ] **09 — Functions**
-- [ ] **10 — Theory with Examples**
+* [x] **01 — Input Output**
+* [x] **02 — Cpp Basics**
+* [x] **03 — If Else**
+* [x] **04 — Bitwise Operators**
+* [x] **05 — Switch Case**
+* [ ] **06 — What are Arrays, Strings?**
+* [ ] **07 — For Loops**
+* [ ] **08 — While Loops**
+* [ ] **09 — Functions**
+* [ ] **10 — Theory with Examples**
 
 ## Repository Structure
 
@@ -75,6 +67,13 @@ Striver_s_A2Z_Sheet_in_cpp/
 │   └── Notes_Bitwise_Operators.md
 │
 ├── 05_switch_case/
+│   ├── 01_basic_switch.cpp
+│   ├── 02_day_of_week.cpp
+│   ├── 03_calculator.cpp
+│   ├── 04_month_days.cpp
+│   ├── 05_menu_driven_program.cpp
+│   ├── 06_vowel_consonant.cpp
+│   └── Notes_Switch_Case.md
 │
 ├── 06_arrays_strings/
 │
@@ -87,3 +86,21 @@ Striver_s_A2Z_Sheet_in_cpp/
 ├── 10_theory_with_examples/
 │
 └── README.md
+```
+
+## Progress Summary
+
+| Section                   | Status    |
+| ------------------------- | --------- |
+| 01 — Input Output         | Completed |
+| 02 — Cpp Basics           | Completed |
+| 03 — If Else              | Completed |
+| 04 — Bitwise Operators    | Completed |
+| 05 — Switch Case          | Completed |
+| 06 — Arrays & Strings     | Pending   |
+| 07 — For Loops            | Pending   |
+| 08 — While Loops          | Pending   |
+| 09 — Functions            | Pending   |
+| 10 — Theory with Examples | Pending   |
+
+**Current completed sections: 5 / 10**
