@@ -14,12 +14,14 @@ I am starting from the fundamentals, practicing each concept, writing my own not
 * [x] **04 — Bitwise Operators**
 * [x] **05 — Switch Case**
 * [x] **06 — For Loops**
-* [ ] **07 — While Loops**
+* [x] **07 — While Loops**
 * [ ] **08 — Arrays & Strings**
 * [ ] **09 — Functions**
 * [ ] **10 — Theory with Examples**
 
-> **Note:** The folders after `06_for_loops` are currently present in the repository as practice/work-in-progress material, but the official learning progress is marked as completed only up to Section 06.
+> **Note:** The folders after `07_while_loops` are currently present in the repository as practice/work-in-progress material, but the official learning progress is marked as completed only up to Section 07.
+
+---
 
 ## Repository Structure
 
@@ -92,6 +94,16 @@ Striver_s_A2Z_Sheet_in_cpp/
 │   └── Notes_For_Loops.md
 │
 ├── 07_while_loops/
+│   ├── 01_basic_while_loop.cpp
+│   ├── 02_print_1_to_n.cpp
+│   ├── 03_print_even_numbers.cpp
+│   ├── 04_print_odd_numbers.cpp
+│   ├── 05_sum_1_to_n.cpp
+│   ├── 06_reverse_number.cpp
+│   ├── 07_count_digits.cpp
+│   ├── 08_sum_of_digits.cpp
+│   └── Notes_While_Loops.md
+│
 ├── 08_arrays_strings/
 ├── 09_functions/
 ├── 10_theory_with_examples/
@@ -106,26 +118,209 @@ Striver_s_A2Z_Sheet_in_cpp/
 └── README.md
 ```
 
+---
+
 ## Progress Summary
 
-| Section                   | Status        |
-| ------------------------- | ------------- |
-| 01 — Input Output         | Completed     |
-| 02 — Cpp Basics           | Completed     |
-| 03 — If Else              | Completed     |
-| 04 — Bitwise Operators    | Completed     |
-| 05 — Switch Case          | Completed     |
-| 06 — For Loops            | **Completed** |
-| 07 — While Loops          | Pending       |
-| 08 — Arrays & Strings     | Pending       |
-| 09 — Functions            | Pending       |
-| 10 — Theory with Examples | Pending       |
+| Section | Topic | Status |
+|---|---|---|
+| 01 | Input Output | **Completed** |
+| 02 | Cpp Basics | **Completed** |
+| 03 | If Else | **Completed** |
+| 04 | Bitwise Operators | **Completed** |
+| 05 | Switch Case | **Completed** |
+| 06 | For Loops | **Completed** |
+| 07 | While Loops | **Completed** |
+| 08 | Arrays & Strings | Pending |
+| 09 | Functions | Pending |
+| 10 | Theory with Examples | Pending |
 
 ### Current Progress
 
-**Completed: 6 / 10**
+**Completed: 7 / 10**
 
-**Current completed topic: `06 — For Loops`**
+**Progress: 70%**
 
-**Next topic: `07 — While Loops`**
+**Current completed topic:** `07 — While Loops`
 
+**Next topic:** `08 — Arrays & Strings`
+
+---
+
+## Topics Completed
+
+### 01 — Input Output
+
+Covered the fundamentals of C++ input and output:
+
+- `cout`
+- `cin`
+- Multiple inputs
+- `using namespace std`
+- Basic C++ program structure
+- Data type sizes
+
+Notes: `Notes_Input_Output.md`
+
+### 02 — Cpp Basics
+
+Covered fundamental C++ concepts:
+
+- Variables
+- Constants
+- Data types
+- Type casting
+- Arithmetic operators
+- Relational operators
+- Logical operators
+- Increment and decrement
+- Assignment operators
+
+Notes: `Notes_Cpp_Basics.md`
+
+### 03 — If Else
+
+Covered conditional statements:
+
+- `if`
+- `if-else`
+- `else-if`
+- Nested `if`
+- Even/odd checking
+- Positive/negative checking
+- Grade decision programs
+
+Notes: `Notes_If_Else.md`
+
+### 04 — Bitwise Operators
+
+Covered basic bit manipulation:
+
+- Bitwise AND `&`
+- Bitwise OR `|`
+- Bitwise XOR `^`
+- Bitwise NOT `~`
+- Left shift `<<`
+- Right shift `>>`
+
+Notes: `Notes_Bitwise_Operators.md`
+
+### 05 — Switch Case
+
+Covered:
+
+- Basic `switch`
+- Day of week
+- Calculator
+- Month days
+- Menu-driven programs
+- Vowel/consonant checking
+
+Notes: `Notes_Switch_Case.md`
+
+### 06 — For Loops
+
+Covered:
+
+- Basic `for` loop syntax
+- Counter-controlled loops
+- Printing `1` to `N`
+- Even numbers
+- Odd numbers
+- Sum from `1` to `N`
+- Multiplication tables
+- Factorial
+- Nested `for` loops
+- Pattern printing
+- Inverted triangle pattern
+
+Notes: `Notes_For_Loops.md`
+
+### 07 — While Loops
+
+Covered:
+
+- Basic `while` loop syntax
+- Initialization and condition checking
+- Loop variable updates
+- Counter-controlled loops
+- Printing `1` to `N`
+- Even numbers
+- Odd numbers
+- Sum from `1` to `N`
+- Accumulator pattern
+- Reverse a number
+- Count digits
+- Sum of digits
+- `% 10` digit extraction
+- `/ 10` digit removal
+- Execution tracing
+- Common `while` loop mistakes
+- Debugging loop conditions
+
+Notes: `Notes_While_Loops.md`
+
+---
+
+## Learning Progress
+
+```text
+01 Input Output          ████████████████████ 100%
+02 Cpp Basics            ████████████████████ 100%
+03 If Else               ████████████████████ 100%
+04 Bitwise Operators     ████████████████████ 100%
+05 Switch Case           ████████████████████ 100%
+06 For Loops             ████████████████████ 100%
+07 While Loops           ████████████████████ 100%
+08 Arrays & Strings      ░░░░░░░░░░░░░░░░░░░░   0%
+09 Functions             ░░░░░░░░░░░░░░░░░░░░   0%
+10 Theory with Examples  ░░░░░░░░░░░░░░░░░░░░   0%
+```
+
+**Overall: 7 / 10 sections completed — 70%**
+
+---
+
+## What's Next?
+
+### 08 — Arrays & Strings
+
+The next stage is to learn arrays and strings, followed by practice problems based on traversal, searching, manipulation, and common array operations.
+
+```text
+Current
+   ↓
+07 — While Loops ✓
+   ↓
+08 — Arrays & Strings
+   ↓
+09 — Functions
+   ↓
+10 — Theory with Examples
+```
+
+---
+
+## Repository Goal
+
+The goal of this repository is to maintain a structured record of my **C++ and DSA learning journey**, including:
+
+- C++ fundamentals
+- DSA concepts
+- Practice programs
+- Problem-solving
+- Personal notes
+- Execution traces
+- Learning progress
+
+Each topic will contain code and notes as I progress through **Striver's A2Z DSA Sheet**.
+
+---
+
+## Progress Tracker
+
+| Completed | Total | Progress |
+|---:|---:|---:|
+| 7 | 10 | **70%** |
+
+**Current focus:** `08 — Arrays & Strings`
