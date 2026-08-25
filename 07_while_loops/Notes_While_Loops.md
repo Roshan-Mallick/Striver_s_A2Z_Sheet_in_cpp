@@ -849,11 +849,11 @@ while (num != 0) {
 
 ---
 
-## Striver A2Z Progress
+## Striver A2Z Progress 
 
 **Topic: While Loops**
 
-The concepts covered here form the foundation for later DSA topics, especially:
+The concepts covered here form the foundation for later DSA topics , especially:
 
 - Array traversal
 - Searching
