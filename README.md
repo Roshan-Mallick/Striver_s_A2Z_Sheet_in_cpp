@@ -15,11 +15,11 @@ I am starting from the fundamentals, practicing each concept, writing my own not
 * [x] **05 — Switch Case**
 * [x] **06 — For Loops**
 * [x] **07 — While Loops**
-* [ ] **08 — Arrays & Strings**
+* [x] **08 — Arrays & Strings**
 * [ ] **09 — Functions**
 * [ ] **10 — Theory with Examples**
 
-> **Note:** The folders after `07_while_loops` are currently present in the repository as practice/work-in-progress material, but the official learning progress is marked as completed only up to Section 07.
+> **Note:** The folders after `08_arrays_strings` are currently present in the repository as practice/work-in-progress material, but the official learning progress is marked as completed only up to Section 08.
 
 ---
 
@@ -29,82 +29,25 @@ I am starting from the fundamentals, practicing each concept, writing my own not
 Striver_s_A2Z_Sheet_in_cpp/
 │
 ├── 01_input_output/
-│   ├── 01_output_with_cout.cpp
-│   ├── 02_Printing_on_Multiple_Lines.cpp
-│   ├── 03_input_with_cin.cpp
-│   ├── 04_Multiple_inputs.cpp
-│   ├── 05_using_namespace_std.cpp
-│   ├── data_type_sizes_on_current_system.cpp
-│   └── Notes_Input_Output.md
-│
 ├── 02_cpp_basics/
-│   ├── 01_variables.cpp
-│   ├── 02_constants.cpp
-│   ├── 03_data_types.cpp
-│   ├── 04_type_casting.cpp
-│   ├── 05_arithmetic_operators.cpp
-│   ├── 06_relational_operators.cpp
-│   ├── 07_logical_operators.cpp
-│   ├── 08_increment_decrement.cpp
-│   ├── 09_assignment_operators.cpp
-│   └── Notes_Cpp_Basics.md
-│
 ├── 03_if_else/
-│   ├── 01_if_statement.cpp
-│   ├── 02_if_else.cpp
-│   ├── 03_else_if.cpp
-│   ├── 04_nested_if.cpp
-│   ├── 05_even_odd_check.cpp
-│   ├── 06_positive_negative_check.cpp
-│   ├── 07_grade_decide.cpp
-│   └── Notes_If_Else.md
-│
 ├── 04_bitwise_operator/
-│   ├── 01_bitwise_and.cpp
-│   ├── 02_bitwise_or.cpp
-│   ├── 03_bitwise_xor.cpp
-│   ├── 04_bitwise_not.cpp
-│   ├── 05_bitwise_left_shift.cpp
-│   ├── 06_bitwise_right_shift.cpp
-│   └── Notes_Bitwise_Operators.md
-│
 ├── 05_switch_case/
-│   ├── 01_basic_switch.cpp
-│   ├── 02_day_of_week.cpp
-│   ├── 03_calculator.cpp
-│   ├── 04_month_days.cpp
-│   ├── 05_menu_driven_program.cpp
-│   ├── 06_vowel_consonant.cpp
-│   └── Notes_Switch_Case.md
-│
 ├── 06_for_loops/
-│   ├── 01_basic_for_loop.cpp
-│   ├── 02_print_1_to_n.cpp
-│   ├── 03_print_even_numbers
-│   ├── 03_print_even_numbers_approach_2.cpp
-│   ├── 03_print_even_numbers.cpp
-│   ├── 04_print_odd_numbers_approach_2.cpp
-│   ├── 04_print_odd_numbers.cpp
-│   ├── 05_sum_1_to_n.cpp
-│   ├── 06_multiplication_table.cpp
-│   ├── 07_factorial.cpp
-│   ├── 08_nested_for_loop.cpp
-│   ├── 09_inverted_triangle_pattern.cpp
-│   ├── a.out
-│   └── Notes_For_Loops.md
-│
 ├── 07_while_loops/
-│   ├── 01_basic_while_loop.cpp
-│   ├── 02_print_1_to_n.cpp
-│   ├── 03_print_even_numbers.cpp
-│   ├── 04_print_odd_numbers.cpp
-│   ├── 05_sum_1_to_n.cpp
-│   ├── 06_reverse_number.cpp
-│   ├── 07_count_digits.cpp
-│   ├── 08_sum_of_digits.cpp
-│   └── Notes_While_Loops.md
-│
 ├── 08_arrays_strings/
+│   ├── 01_array_input_output.cpp
+│   ├── 02_largest_element.cpp
+│   ├── 03_smallest_element.cpp
+│   ├── 04_reverse_array.cpp
+│   ├── 05_sum_of_array.cpp
+│   ├── 06_count_even_odd.cpp
+│   ├── 07_string_input_output.cpp
+│   ├── 08_reverse_string.cpp
+│   ├── 09_count_vowels.cpp
+│   ├── 10_palindrome_string.cpp
+│   └── Notes_Arrays_Strings.md
+│
 ├── 09_functions/
 ├── 10_theory_with_examples/
 ├── 11_build_up_logical_thinking/
@@ -131,19 +74,19 @@ Striver_s_A2Z_Sheet_in_cpp/
 | 05 | Switch Case | **Completed** |
 | 06 | For Loops | **Completed** |
 | 07 | While Loops | **Completed** |
-| 08 | Arrays & Strings | Pending |
+| 08 | Arrays & Strings | **Completed** |
 | 09 | Functions | Pending |
 | 10 | Theory with Examples | Pending |
 
 ### Current Progress
 
-**Completed: 7 / 10**
+**Completed: 8 / 10**
 
-**Progress: 70%**
+**Progress: 80%**
 
-**Current completed topic:** `07 — While Loops`
+**Current completed topic:** `08 — Arrays & Strings`
 
-**Next topic:** `08 — Arrays & Strings`
+**Next topic:** `09 — Functions`
 
 ---
 
@@ -260,6 +203,54 @@ Covered:
 
 Notes: `Notes_While_Loops.md`
 
+### 08 — Arrays & Strings
+
+Covered array and string fundamentals.
+
+#### Arrays
+
+- Array declaration
+- Array indexing
+- Array input and output
+- Array traversal
+- Finding the largest element
+- Finding the smallest element
+- Reversing an array
+- Sum of array elements
+- Counting even and odd elements
+- Accumulator pattern
+- Running maximum and minimum
+
+#### Strings
+
+- `string` declaration
+- String input and output
+- Character arrays
+- String indexing
+- String length using `.length()`
+- Reversing a string
+- Counting vowels
+- Character comparison
+- Difference between `=` and `==`
+- Palindrome checking
+
+Programs completed:
+
+```text
+01_array_input_output.cpp
+02_largest_element.cpp
+03_smallest_element.cpp
+04_reverse_array.cpp
+05_sum_of_array.cpp
+06_count_even_odd.cpp
+07_string_input_output.cpp
+08_reverse_string.cpp
+09_count_vowels.cpp
+10_palindrome_string.cpp
+```
+
+Notes: `Notes_Arrays_Strings.md`
+
 ---
 
 ## Learning Progress
@@ -272,27 +263,34 @@ Notes: `Notes_While_Loops.md`
 05 Switch Case           ████████████████████ 100%
 06 For Loops             ████████████████████ 100%
 07 While Loops           ████████████████████ 100%
-08 Arrays & Strings      ░░░░░░░░░░░░░░░░░░░░   0%
+08 Arrays & Strings      ████████████████████ 100%
 09 Functions             ░░░░░░░░░░░░░░░░░░░░   0%
 10 Theory with Examples  ░░░░░░░░░░░░░░░░░░░░   0%
 ```
 
-**Overall: 7 / 10 sections completed — 70%**
+**Overall: 8 / 10 sections completed — 80%**
 
 ---
 
 ## What's Next?
 
-### 08 — Arrays & Strings
+### 09 — Functions
 
-The next stage is to learn arrays and strings, followed by practice problems based on traversal, searching, manipulation, and common array operations.
+The next stage is to learn C++ functions, including:
+
+- Basic function declaration and calling
+- Function parameters
+- Arguments
+- Return values
+- Functions with and without parameters
+- Functions with and without return values
+- Passing values to functions
+- Problem-solving using functions
 
 ```text
 Current
    ↓
-07 — While Loops ✓
-   ↓
-08 — Arrays & Strings
+08 — Arrays & Strings ✓
    ↓
 09 — Functions
    ↓
@@ -321,6 +319,6 @@ Each topic will contain code and notes as I progress through **Striver's A2Z DSA
 
 | Completed | Total | Progress |
 |---:|---:|---:|
-| 7 | 10 | **70%** |
+| 8 | 10 | **80%** |
 
-**Current focus:** `08 — Arrays & Strings`
+**Current focus:** `09 — Functions`
